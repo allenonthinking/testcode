@@ -1,0 +1,4 @@
+.settings/
+fastjson/target/
+.project
+.classpath
